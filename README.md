@@ -8,10 +8,13 @@ Archived from the official portal (old26.gtu.ac.in/Syllabus/Syllabus.aspx) start
 
 - [All subjects in one CSV](data/all_subjects.csv): the complete machine-readable list.
 
+- [Scheme 2008 (110xxx codes)](schemes/scheme-2008.md): 56 subjects
+- [Scheme 2013 (213xxxx codes)](schemes/scheme-2013.md): 57 subjects
+- [Scheme 2018-19 (313xxxx / 314xxxx codes)](schemes/scheme-2018-19.md): 69 subjects
 - [Scheme 2024-25 (BE codes)](schemes/scheme-2024-25.md): 19 subjects
 - [Revision 2025-26 (R-series codes)](schemes/scheme-2025-26.md): 32 subjects
 - [Revision 2026-27 (RR-series codes)](schemes/scheme-2026-27.md): 31 subjects
-- [Effective July 2026](schemes/scheme-july-2026.md): 9 subjects
+- [July 2026 MOOC electives](schemes/scheme-july-2026.md): 9 subjects
 
 ## Columns
 

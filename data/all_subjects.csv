@@ -1,4 +1,85 @@
 code,name,category,eff_from,sem,L,T,P,PBL,credit,E,M,I,V,total
+110001,Chemistry,Compulsory,2008-09,1,3,0,2,NA,5,70,30,50,0,150
+110002,Communication Skills,Compulsory,2008-09,1,1,0,2,NA,3,70,30,50,0,150
+110003,Computer Programming and Utilization,Compulsory,2008-09,1,2,0,4,NA,6,70,30,50,0,150
+110004,Elements of Civil Engineering,Compulsory,2008-09,1,4,0,2,NA,6,70,30,50,0,150
+110005,Elements of Electrical Engineering,Compulsory,2008-09,1,4,0,2,NA,6,70,30,50,0,150
+110006,Elements of Mechanical Engineering,Compulsory,2008-09,1,4,0,2,NA,6,70,30,50,0,150
+110007,Environmental Studies,Compulsory,2008-09,1,3,0,0,NA,3,70,30,50,0,150
+110010,Mechanics of Solids,Compulsory,2008-09,1,3,0,2,NA,5,70,30,50,0,150
+110011,Physics,Compulsory,2008-09,1,3,0,2,NA,5,70,30,50,0,150
+110012,Workshop,Compulsory,2008-09,1,0,0,4,NA,4,0,0,100,0,100
+110013,Engineering Graphics,Compulsory,2008-09,1,2,0,4,NA,6,70,30,50,0,150
+110014,Calculus,Compulsory,2008-09,1,3,2,0,NA,5,70,30,50,0,150
+110015,Vector Calculus and Linear Algebra,Compulsory,2008-09,1,3,2,0,NA,5,70,30,50,0,150
+1990001,Contributor Personality Development,Compulsory,2008-09,1,4,0,0,NA,4,70,30,50,0,150
+130002,Advanced Engineering Mathematics,Compulsory,2008-09,3,3,2,0,NA,5,70,30,50,0,150
+130901,Circuits and Networks,Compulsory,2008-09,3,4,0,2,NA,6,70,30,50,0,150
+130902,Analog and Digital Electronics,Compulsory,2008-09,3,3,0,2,NA,5,70,30,50,0,150
+130903,Electrical and Electronics Measuring Instruments,Compulsory,2008-09,3,3,0,0,NA,3,70,30,50,0,150
+130904,Electrical Machines-I,Compulsory,2008-09,3,3,0,2,NA,5,70,30,50,0,150
+131101,Basic Electronics,Compulsory,2008-09,3,4,0,2,NA,6,70,30,50,0,150
+140001,Mathematics-IV,Compulsory,2008-09,4,3,2,0,NA,5,70,30,50,0,150
+140002,Management-I,Compulsory,2008-09,4,2,0,0,NA,2,70,30,50,0,150
+140701,Microprocessor And Interfacing,Compulsory,2008-09,4,3,0,2,NA,5,70,30,50,0,150
+140902,Electrical Power,Compulsory,2008-09,4,4,0,0,NA,4,70,30,50,0,150
+140903,Electrical And Electronics Workshop,Compulsory,2008-09,4,0,0,2,NA,2,0,0,100,0,100
+140904,Energy Systems,Institute Elective,2008-09,4,4,0,2,NA,6,70,30,50,0,150
+141701,Control Theory,Compulsory,2008-09,4,4,0,2,NA,6,70,30,50,0,150
+150001,Management - II,Compulsory,2008-09,5,2,0,0,NA,2,70,30,50,0,150
+150901,Electrical Machine - II,Compulsory,2008-09,5,3,0,2,NA,5,70,30,50,0,150
+150902,Power System Analysis and Simulation,Compulsory,2008-09,5,3,0,2,NA,5,70,30,50,0,150
+150903,Power Electronics - I,Compulsory,2008-09,5,3,0,2,NA,5,70,30,50,0,150
+150904,Elements of Electrical Design,Compulsory,2008-09,5,3,0,2,NA,5,70,30,50,0,150
+150905,Switchgear,Compulsory,2008-09,5,2,0,0,NA,2,70,30,50,0,150
+150906,Electrical Power Utilization And Traction,Institute Elective,2008-09,5,4,0,2,NA,6,70,30,50,0,150
+160901,Electrical Machines - III,Compulsory,2008-09,6,3,0,2,NA,5,70,30,50,0,150
+160902,Power Electronics - II,Compulsory,2008-09,6,4,0,2,NA,6,70,30,50,0,150
+160903,Microcontroller,Compulsory,2008-09,6,3,0,2,NA,5,70,30,50,0,150
+160904,High Voltage Engineering,Compulsory,2008-09,6,4,0,2,NA,6,70,30,50,0,150
+160905,Electrical and ElectronicMeasurement,Compulsory,2008-09,6,3,0,2,NA,5,70,30,50,0,150
+160906,Theory of Electromagnetics,Compulsory,2008-09,6,3,0,0,NA,3,70,30,50,0,150
+170001,Project - I,Compulsory,2008-09,7,0,0,4,NA,4,0,0,50,100,150
+170901,Inter Connected Power System,Compulsory,2008-09,7,3,0,2,NA,5,70,30,20,30,150
+170902,Electrical Machine Design-I,Department Elective-I,2008-09,7,3,0,2,NA,5,70,30,20,30,150
+170903,Power System Protection,Compulsory,2008-09,7,3,0,2,NA,5,70,30,20,30,150
+170904,Industrial Instrumentation,Compulsory,2008-09,7,3,0,2,NA,5,70,30,20,30,150
+170905,Advanced Power System - I,Department Elective-I,2008-09,7,4,0,2,NA,6,70,30,20,30,150
+170906,Advanced Power Electronics - I,Department Elective-I,2008-09,7,4,0,2,NA,6,70,30,20,30,150
+170907,Advanced Microcontrollers & Embedded System,Department Elective-I,2008-09,7,4,0,2,NA,6,70,30,20,30,150
+180901,Commissioning of Electrical Equipments,Compulsory,2008-09,8,3,0,2,NA,5,70,30,20,30,150
+180902,Electrical Power Utilization,Compulsory,2008-09,8,3,0,0,NA,3,70,30,50,0,150
+180903,Power System Practice and Design,Compulsory,2008-09,8,3,0,0,NA,3,70,30,50,0,150
+180904,Electrical Machine Design II,Compulsory,2008-09,8,3,0,2,NA,5,70,30,20,30,150
+180905,Project - II,Compulsory,2008-09,8,0,0,8,NA,8,0,0,50,100,150
+180906,Advanced Power System -II,Department Elective - II,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+180907,Advanced Power Electronics -II,Department Elective - II,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+180908,Advanced Processor And Controllers,Departmental Elective II,2008-09,8,4,0,2,NA,6,70,30,20,30,150
+3110002,English,Humanities and Social Science,2018-19,1,2,0,2,NA,3,70,30,20,30,150
+3110003,Programming for Problem Solving,Engineering Science,2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3110005,Basic Electrical Engineering,Engineering Science,2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3110006,Basic Mechanical Engineering,Engineering Science,2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3110007,Environmental Sciences,Mandatory,2018-19,1,2,2,0,NA,0,70,30,0,0,100
+3110012,Workshop/ Manufacturing Practices,Engineering Science,2018-19,1,0,0,4,NA,2,0,0,20,80,100
+3110013,Engineering Graphics & Design,Engineering Science,2018-19,1,2,0,4,NA,4,70,30,20,30,150
+3110014,Mathematics - 1,Basic Science,2018-19,1,3,2,0,NA,5,70,30,0,0,100
+3110015,Mathematics - 2,Basic Science,2018-19,1,3,2,0,NA,5,70,30,0,0,100
+3110016,Basic Electronics,Engineering Science,2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3110017,Induction Program,Mandatory,2018-19,1,0,0,0,NA,0,0,0,0,0,0
+3110018,Physics,Basic Science (Elective),2018-19,1,3,0,2,NA,4,70,30,20,30,150
+3130004,Effective Technical Communication,Humanities and Social Science,2018-19,3,2,0,2,NA,3,70,30,20,30,150
+3130007,Indian Constitution,Mandatory,2018-19,3,2,0,0,NA,0,50,0,0,0,50
+3130008,Design Engineering - I A,Project Work,2018-19,3,0,0,2,NA,1,0,0,20,80,100
+3130905,Control System Theory,Engineering Science,2018-19,3,3,0,2,NA,4,70,30,20,30,150
+3130906,Electrical Circuit Analysis,Professional Core,2018-19,3,3,1,2,NA,5,70,30,20,30,150
+3130907,Analog & Digital Electronics,Professional Core,2018-19,3,4,0,2,NA,5,70,30,20,30,150
+3130908,Applied Mathematics for Electrical Engineering,Basic Science,2018-19,3,3,2,0,NA,5,70,30,0,0,100
+3140005,Design Engineering 1 B,Project Work,2018-19,4,0,0,2,NA,1,0,0,20,80,100
+3140911,Economics for Engineers,Humanities and Social Science,2018-19,4,3,0,0,NA,3,70,30,0,0,100
+3140912,Electromagnetic Fields,Basic Science,2018-19,4,3,1,2,NA,5,70,30,20,30,150
+3140913,Electrical Machine- I,Professional Core,2018-19,4,3,0,2,NA,4,70,30,20,30,150
+3140914,Power System- I,Professional Core,2018-19,4,4,0,2,NA,5,70,30,20,30,150
+3140915,Power Electronics,Professional Core,2018-19,4,4,0,2,NA,5,70,30,20,30,150
 BE01000011,Student Induction Program with essence of Indian Knowledge System,Mandatory Non-Credit Courses – Audit Course,2024-25,1,0,0,0,NA,0,0,0,0,0,0
 BE01000021,Physics,Basic Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
 BE01000031,Chemistry,Basic Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
@@ -81,6 +162,46 @@ BE06009051,Electrical Machine Design,Professional Elective - III,2026-27,6,45,0,
 BE06009061,EHV AC and HVDC Transmission,Professional Elective - IV,2026-27,6,45,0,15,0,2,70,30,50,50,200
 BE06009071,Application of AI in Electrical System,Professional Elective - IV,2026-27,6,45,0,30,15,3,70,30,50,50,200
 BE06009081,Electrical Equipment and Machines: Finite Element Analysis,Professional Elective - IV,2026-27,6,45,0,30,15,3,70,30,50,50,200
+2140002,Design Engineering - I B,Compulsory,Dec 2014,4,0,0,3,NA,3,0,0,20,80,100
+2140906,AC Machines,Compulsory,Dec 2014,4,4,0,2,NA,6,70,30,20,30,150
+2140907,Applied Thermal and Hydraulic Engineering,Compulsory,Dec 2014,4,3,0,0,NA,3,70,30,0,0,100
+2140908,Electrical Power Generation,Compulsory,Dec 2014,4,4,0,2,NA,6,70,30,20,30,150
+2140909,Field Theory,Compulsory,Dec 2014,4,3,2,0,NA,5,70,30,20,30,150
+2140910,Digital Electronics,Compulsory,Dec 2014,4,3,0,2,NA,5,70,30,20,30,150
+2141005,Signals and Systems,Compulsory,Dec 2014,4,3,0,2,NA,5,70,30,20,30,150
+2160001,Design Engineering - II B,Compulsory,Dec 2015,6,0,0,3,NA,3,0,0,20,80,100
+2160902,Power Electronics – II,Compulsory,Dec 2015,6,3,0,2,NA,5,70,30,20,30,150
+2160904,High Voltage Engineering,Compulsory,Dec 2015,6,3,0,2,NA,5,70,30,20,30,150
+2160907,Utilization of Electrical Energy and Traction,Compulsory,Dec 2015,6,3,0,0,NA,3,70,30,0,0,100
+2160908,Electrical Power system – II,Compulsory,Dec 2015,6,3,0,2,NA,5,70,30,20,30,150
+2160909,Advance Microcontrollers,Departmental Elective I,Dec 2015,6,3,0,2,NA,5,70,30,20,30,150
+2160911,Computer Aided Analysis and Design for Electrical Engg.,Departmental Elective I,Dec 2015,6,3,0,2,NA,5,70,30,20,30,150
+2160912,Design of DC Machines and Transformer,Compulsory,Dec 2015,6,3,0,2,NA,5,70,30,20,30,150
+2160913,Control of Electrical Drives,Departmental Elective I,Dec 2015,6,3,0,2,NA,5,70,30,20,30,150
+2180901,Testing and Commissioning of Electrical Equipments,Compulsory,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180903,Power System Planning and Design,Compulsory,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180905,Project,Compulsory,Dec 2016,8,0,0,10,NA,10,0,0,20,80,100
+2180909,Power System Operation and Control,Compulsory,Dec 2016,8,4,0,0,NA,4,70,30,0,0,100
+2180910,Energy Conservation and Audit,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180911,Power Quality and Management,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180912,Condition Monitoring,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+2180913,Advanced Control Systems,Departmental Elective III,Dec 2016,8,3,0,2,NA,5,70,30,20,30,150
+3180901,Internship/Project,Project Work,Dec 2021,8,0,0,24,NA,12,0,0,100,100,200
+3160001,Design Engineering II B,Project Work,Dec-2020,6,0,0,2,NA,1,0,0,20,80,100
+3160002,Contributor Personality Development Program,Personality development Elective,Dec-2020,6,2,0,0,NA,2,70,30,20,30,150
+3160003,Integrated Personality Development Course,Personality development Elective,Dec-2020,6,2,0,0,NA,2,70,30,20,30,150
+3160004,Fundamental of Semiconductor Package Manufacturing and Test,Open elective - II,Dec-2020,6,3,0,0,NA,3,70,30,0,0,100
+3160914,Microprocessors and Microcontrollers,Professional Core,Dec-2020,6,4,0,2,NA,5,70,30,20,30,150
+3160915,Electrical Measurement and Measuring Instruments,Professional Core,Dec-2020,6,4,0,2,NA,5,70,30,20,30,150
+3160916,Energy Conservation,Professional Elective - I,Dec-2020,6,3,0,0,NA,3,70,30,0,0,100
+3160917,Wind And Solar Energy,Professional Elective - I,Dec-2020,6,3,0,0,NA,3,70,30,0,0,100
+3160918,Element of Electrical Design,Professional Elective - I,Dec-2020,6,3,0,0,NA,3,70,30,0,0,100
+3160919,Electric Drives,Professional Elective - II,Dec-2020,6,3,0,2,NA,4,70,30,20,30,150
+3160920,Inter Connected Power System,Professional Elective - II,Dec-2020,6,3,0,2,NA,4,70,30,20,30,150
+3160921,HVDC Transmission Systems,Professional Elective - II,Dec-2020,6,3,0,2,NA,4,70,30,20,30,150
+3160922,Object Oriented Programming,Open elective - II,Dec-2020,6,2,0,2,NA,3,70,30,20,30,150
+3160923,Electrical Materials,Open elective - II,Dec-2020,6,3,0,0,NA,3,70,30,0,0,100
+3161925,Cyber Laws and Ethics,Open elective - II,Dec-2020,6,3,0,0,NA,3,70,30,0,0,100
 noc26-ee200,Electronic Modules for Industrial Applications using Op-Amps,Professional Elective - II (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
 noc26-ge98,Renewable Energy Sources: Fundamentals and Technologies,Professional Elective - I (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
 noc26-mm56,Fundamentals of Electronic Device Fabrication,Multidisciplinary Open Professional Electives Courses - II (MOOC),July 2026,5,2,0,0,NA,2,100,0,0,0,100
@@ -90,3 +211,64 @@ noc26-ge105,Artificial Intelligence in Industrial and Management Engineering,Pro
 noc26-ee107,Dc Microgrid and Control System,Professional Elective - V (MOOC),July 2026,7,3,0,0,NA,3,100,0,0,0,100
 noc26-ee108,Advance Power Electronics and Control,Professional Elective - VI (MOOC),July 2026,7,3,0,0,NA,3,100,0,0,0,100
 noc26-ma140,Linear Algebra for Machine Learning and Quantum Computing,Multidisciplinary Open Professional Electives Courses - IV (MOOC),July 2026,7,2,0,0,NA,2,100,0,0,0,100
+2110002,Communication Skills,Compulsory,June 2013,1,2,0,2,NA,4,70,30,20,30,150
+2110003,Computer Programming And Utilization,Compulsory,June 2013,1,3,1,2,NA,6,70,30,20,30,150
+2110005,Elements of Electrical Engineering,Compulsory,June 2013,1,4,0,2,NA,6,70,30,20,30,150
+2110006,Elements of Mechanical Engineering,Compulsory,June 2013,1,4,0,2,NA,6,70,30,20,30,150
+2110007,Environmental Studies,Compulsory,June 2013,1,3,0,0,NA,3,70,30,0,0,100
+2110011,Physics,Compulsory,June 2013,1,3,0,2,NA,5,70,30,20,30,150
+2110013,Engineering Graphics,Compulsory,June 2013,1,2,0,4,NA,6,70,30,20,30,150
+2110014,Calculus,Compulsory,June 2013,1,3,2,0,NA,5,70,30,20,30,150
+2110015,Vector Calculus And Linear Algebra,Compulsory,June 2013,1,3,2,0,NA,5,70,30,20,30,150
+2110016,Basic Electronics,Compulsory,June 2013,1,4,0,2,NA,6,70,30,20,30,150
+2110017,Electrical and Electronics Workshop,Compulsory,June 2013,1,0,0,4,NA,4,0,0,20,80,100
+2990001,Contributor Personality Development,Compulsory,June 2013,1,4,0,0,NA,4,70,30,20,30,150
+2130002,Advance Engineering Mathematics,Compulsory,June 2014,3,3,2,0,NA,5,70,30,20,30,150
+2130004,Engineering Economics and Management,Compulsory,June 2014,3,3,0,0,NA,3,70,30,0,0,100
+2130005,Design Engineering I-A,Compulsory,June 2014,3,0,0,3,NA,3,0,0,20,80,100
+2130901,Circuits and Networks,Compulsory,June 2014,3,4,0,2,NA,6,70,30,20,30,150
+2130902,Analog Electronics,Compulsory,June 2014,3,3,0,2,NA,5,70,30,20,30,150
+2130903,Electrical Measurement and Measuring Instruments,Compulsory,June 2014,3,3,0,2,NA,5,70,30,20,30,150
+2130904,DC Machines and Transformer,Compulsory,June 2014,3,4,0,2,NA,6,70,30,20,30,150
+2150001,Design Engineering - II A,Compulsory,June 2015,5,0,0,3,NA,3,0,0,20,80,100
+2150002,Institute Elective - Cyber Security,Institute Elective,June 2015,5,0,1,2,NA,3,0,0,20,80,100
+2150003,Institute Elective - Diaster Management,Institute Elective,June 2015,5,3,0,0,NA,3,70,30,0,0,100
+2150903,Power Electronics – I,Compulsory,June 2015,5,3,0,2,NA,5,70,30,20,30,150
+2150904,Elements of Electrical Design,Compulsory,June 2015,5,2,0,2,NA,4,70,30,20,30,150
+2150907,Microprocessor and Microcontroller Architecture & Interfacing,Compulsory,June 2015,5,4,0,2,NA,6,70,30,20,30,150
+2150908,Electrical Power System – I,Compulsory,June 2015,5,3,0,0,NA,3,70,30,0,0,100
+2150909,Control System Engineering,Compulsory,June 2015,5,4,0,2,NA,6,70,30,20,30,150
+2170004,Project - I,Compulsory,June 2016,7,0,0,8,NA,8,0,0,20,80,100
+2170901,Interconnected Power System,Compulsory,June 2016,7,3,0,2,NA,5,70,30,20,30,150
+2170906,Advanced Power Electronics,Departmental Elective II,June 2016,7,3,0,2,NA,5,70,30,20,30,150
+2170908,Switch Gear and Protection,Compulsory,June 2016,7,4,0,2,NA,6,70,30,20,30,150
+2170913,Industrial Instrumentation,Departmental Elective II,June 2016,7,3,0,2,NA,5,70,30,20,30,150
+2170914,Digital Signal Processing,Departmental Elective II,June 2016,7,3,0,2,NA,5,70,30,20,30,150
+3150001,Design Engineering - II A,Project Work,June 2020,5,0,0,2,NA,1,0,0,20,80,100
+3150004,Contributor Personality Development Program,Personality development Elective,June 2020,5,2,0,0,NA,2,70,30,20,30,150
+3150005,Integrated Personality Development Course,Personality development Elective,June 2020,5,2,0,0,NA,2,70,30,20,30,150
+3150709,Professional Ethics,Humanities and Social Science,June 2020,5,3,0,0,NA,3,70,30,0,0,100
+3150910,Electrical Machine- II,Professional Core,June 2020,5,4,0,2,NA,5,70,30,20,30,150
+3150911,Power System- II,Professional Core,June 2020,5,4,0,2,NA,5,70,30,20,30,150
+3150912,Signals and Systems,Professional Core,June 2020,5,3,0,2,NA,4,70,30,20,30,150
+3150913,Disaster Management,Open Elective - I,June 2020,5,3,0,0,NA,3,70,30,0,0,100
+3151108,Python Programming,Open Elective - I,June 2020,5,2,0,2,NA,3,70,30,20,30,150
+3151910,Operation Research,Open Elective - I,June 2020,5,3,0,0,NA,3,70,30,0,0,100
+3170001,Summer Internship,Project,June 2021,7,0,0,0,NA,2,0,0,20,80,100
+3170906,Advanced Power Electronics,Professional Elective - IV,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170908,Switchgear And Protection,Professional Core,June 2021,7,4,0,2,NA,5,70,30,20,30,150
+3170909,AC Machine Design,Professional Elective - III,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170914,Advanced Microcontrollers,Professional Elective - III,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170915,Power System Dynamics and Control,Professional Elective - III,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170916,Advanced Electric Drives,Professional Elective - IV,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170917,High Voltage Engineering,Professional Elective - IV,June 2021,7,3,0,2,NA,4,70,30,20,30,150
+3170918,Digital Signal Processors,Professional Elective - V,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170919,Power System Operation and Control,Professional Elective - V,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170920,Industrial Electrical Systems,Professional Elective - V,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170921,Power Quality and FACTS,Professional Elective - VI,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170922,Smart Grids,Professional Elective - VI,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170923,Electrical and Hybrid Vehicle,Professional Elective - VI,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170924,AI and Machine Learning,Open Elective - III,June 2021,7,3,0,0,NA,3,70,30,0,0,100
+3170925,Industrial Automation,Open Elective - III,June 2021,7,2,0,2,NA,3,70,30,20,30,150
+3171108,Internet of Things,Open Elective - III,June 2021,7,2,0,2,NA,3,70,30,20,30,150
+3110001,Chemistry,Basic Science (Elective),Oct - 21,1,3,0,2,NA,4,70,30,20,30,150

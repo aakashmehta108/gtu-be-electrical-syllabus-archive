@@ -1,0 +1,92 @@
+code,name,category,eff_from,sem,L,T,P,PBL,credit,E,M,I,V,total
+BE01000011,Student Induction Program with essence of Indian Knowledge System,Mandatory Non-Credit Courses – Audit Course,2024-25,1,0,0,0,NA,0,0,0,0,0,0
+BE01000021,Physics,Basic Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000031,Chemistry,Basic Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000041,Mathematics-I,Basic Science Courses,2024-25,1,3,1,0,NA,4,70,30,0,0,100
+BE01000051,Basic Electrical Engineering,Engineering Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000061,Engineering Graphics & Design,Engineering Science Courses,2024-25,1,1,0,2,NA,2,70,30,20,30,150
+BE01000071,Design Thinking,Engineering Science Courses,2024-25,1,0,0,4,NA,2,0,0,20,80,100
+BE01000081,Basic Mechanical Engineering,Engineering Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000111,Basic Electronics Engineering,Engineering Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+BE01000121,Programming for Problem Solving,Engineering Science Courses,2024-25,1,2,0,4,NA,4,70,30,20,30,150
+BE01000141,Universal Human Values,Humanities and Social Science including Management Courses,2024-25,1,2,0,0,NA,2,70,30,0,0,100
+BE01000151,Contributor Personality Development Program,Humanities and Social Science including Management Courses,2024-25,1,2,0,0,NA,2,70,30,0,0,100
+BE01000161,Integrated Personality Development Course,Humanities and Social Science including Management Courses,2024-25,1,2,0,0,NA,2,70,30,0,0,100
+BE01000181,Digital Fabrication Workshop,Engineering Science Courses,2024-25,1,0,0,2,NA,1,0,0,20,80,100
+BE02000011,Mathematics – 2,Basic Science Courses,2024-25,2,3,1,0,NA,4,70,30,0,0,100
+BE02000021,English for Technical Communication,Humanities and Social Science including Management Courses,2024-25,2,2,0,2,NA,3,70,30,20,30,150
+BE02000031,Intellectual Property Rights,Multidisciplinary Open Professional Electives Courses,2024-25,2,2,0,0,NA,2,70,30,0,0,100
+BE02000041,Fundamental of AI,Multidisciplinary Open Professional Electives Courses,2024-25,2,2,0,0,NA,2,70,30,0,0,100
+BE02000061,Industrial Safety and Standards,Multidisciplinary Open Professional Electives Courses,2024-25,2,2,0,0,NA,2,70,30,0,0,100
+BE01R00011,Student Induction Program with essence of Indian Knowledge System,Mandatory Non-Credit Courses – Audit Course,2025-26,1,0,0,0,0,0,0,0,0,0,0
+BE01R00021,Physics,Basic Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00031,Chemistry,Basic Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00041,Mathematics-I,Basic Science Courses,2025-26,1,30,30,0,60,4,70,30,30,0,130
+BE01R00051,Basic Electrical Engineering,Engineering Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00061,Engineering Graphics & Design,Engineering Science Courses,2025-26,1,15,0,30,15,2,70,30,50,50,200
+BE01R00071,Design Thinking,Engineering Science Courses,2025-26,1,0,0,60,0,2,0,0,20,80,100
+BE01R00081,Basic Mechanical Engineering,Engineering Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00111,Basic Electronics Engineering,Engineering Science Courses,2025-26,1,45,0,30,45,4,70,30,50,50,200
+BE01R00121,Programming for Problem Solving,Engineering Science Courses,2025-26,1,30,0,60,30,4,70,30,50,50,200
+BE01R00141,Universal Human Values,Humanities and Social Science including Management Courses,2025-26,1,30,0,0,30,2,70,30,30,0,130
+BE01R00151,Contributor Personality Development Program,Humanities and Social Science including Management Courses,2025-26,1,30,0,0,30,2,70,30,30,0,130
+BE01R00161,Integrated Personality Development Course,Humanities and Social Science including Management Courses,2025-26,1,30,0,0,30,2,70,30,30,0,130
+BE01R00181,Digital Fabrication Workshop,Engineering Science Courses,2025-26,1,0,0,30,0,1,0,0,20,80,100
+BE02R00011,Mathematics – 2,Basic Science Courses,2025-26,2,30,30,0,60,4,70,30,30,0,130
+BE02R00021,English for Technical Communication,Humanities and Social Science including Management Courses,2025-26,2,30,0,30,30,3,70,30,50,50,200
+BE02R00031,Intellectual Property Rights,Multidisciplinary Open Professional Electives Courses,2025-26,2,30,0,0,30,2,70,30,30,0,130
+BE02R00041,Fundamental of AI,Multidisciplinary Open Professional Electives Courses,2025-26,2,30,0,0,30,2,70,30,30,0,130
+BE02R00061,Industrial Safety and Standards,Multidisciplinary Open Professional Electives Courses,2025-26,2,30,0,0,30,2,70,30,30,0,130
+BE02R00071,Standardization and Quality Ecosystem,Multidisciplinary Open Professional Electives Courses,2025-26,2,30,0,0,30,2,70,30,30,0,130
+BE03000051,Professional Communication and Ethics,Humanities and Social Science including Management Courses (Elective),2025-26,3,30,0,30,0,2,70,30,20,50,170
+BE03000061,Indian Constitution,Core Courses,2025-26,3,30,0,0,30,2,50,0,30,0,80
+BE03000191,Numerical Methods for Electrical Engineering,Basic Science Courses,2025-26,3,45,0,30,45,4,70,30,50,50,200
+BE03009011,Analog and Digital Electronics,Professional Core Courses,2025-26,3,45,0,30,45,4,70,30,50,50,200
+BE03009021,Electrical Machines I,Professional Core Courses,2025-26,3,45,0,30,45,4,70,30,50,50,200
+BE03009031,Electrical Circuit Analysis,Professional Core Courses,2025-26,3,45,15,30,30,4,70,30,50,50,200
+BE04000101,"Environmental Science, Sustainability and Renewable Energy",Core Courses,2025-26,4,30,30,0,0,2,70,30,20,0,120
+BE04009011,Electrical Machines-II,Professional Core Courses,2025-26,4,45,0,30,45,4,70,30,50,50,200
+BE04009021,Engineering Electromagnetics,Basic Science Courses,2025-26,4,45,0,30,15,3,70,30,50,50,200
+BE04009031,Power Electronics,Professional Core Courses,2025-26,4,45,0,30,45,4,70,30,50,50,200
+BE04009041,Power Systems l,Professional Core Courses,2025-26,4,45,0,30,45,4,70,30,50,50,200
+BE04009051,Signals and Systems,Professional Core Courses,2025-26,4,45,0,30,15,3,70,30,50,50,200
+BE01RR0021,Physics,Basic Science Courses,2026-27,1,45,0,30,45,4,70,30,50,50,200
+BE03R00241,Indian Knowledge System for Engineering,Humanities and Social Science including Management Courses (Elective),2026-27,3,30,0,30,0,2,70,30,20,50,170
+BE05000011,Societal Internship,Project Work,2026-27,5,0,0,60,0,2,0,0,20,80,100
+BE05000441,Application of Remote Sensing and GIS in Engineering,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000451,Occupational Health & Safety Management,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000461,Fuzzy Logic and Genetic Programming,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000471,Oil Hydraulics and Pneumatics,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000481,Project Management,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000491,Introduction to Biomedical Technology,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000511,Computer Organization & Architecture,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000521,Sustainability and Circularity in Textile Industry,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000531,Textile for Engineering Application,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000561,Sustainable Energy Technology,Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05000571,"Sustainable Polymers: Materials, Safety and Circular Economy",Multidisciplinary Open Professional Electives Courses,2026-27,5,45,0,0,15,2,70,30,30,0,130
+BE05009011,Control Systems,Professional Core Courses,2026-27,5,45,0,30,45,4,70,30,50,50,200
+BE05009021,Power Systems-II,Professional Core Courses,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05009031,Measurement and Instrumentation,Professional Core Courses,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05009041,Elements of Electrical Design,Professional Elective - I,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05009051,Renewable Energy Technology,Professional Elective - I,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05009061,Advanced Power Electronics,Professional Elective - I,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05009071,High Voltage Engineering,Professional Elective - II,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05009081,Energy Management and Audit,Professional Elective - II,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE05009091,Electrical Distribution Systems,Professional Elective - II,2026-27,5,45,0,30,15,3,70,30,50,50,200
+BE06009011,Microprocessor and Microcontroller,Professional Core Courses,2026-27,6,45,0,30,45,4,70,30,50,50,200
+BE06009021,Electrical Drives,Professional Core Courses,2026-27,6,45,0,30,45,4,70,30,50,50,200
+BE06009031,Interconnected Power Systems,Professional Core Courses,2026-27,6,45,0,30,45,4,70,30,50,50,200
+BE06009041,Electrical Power Utilization,Professional Elective - III,2026-27,6,45,0,30,15,3,70,30,50,50,200
+BE06009051,Electrical Machine Design,Professional Elective - III,2026-27,6,45,0,30,15,3,70,30,50,50,200
+BE06009061,EHV AC and HVDC Transmission,Professional Elective - IV,2026-27,6,45,0,15,0,2,70,30,50,50,200
+BE06009071,Application of AI in Electrical System,Professional Elective - IV,2026-27,6,45,0,30,15,3,70,30,50,50,200
+BE06009081,Electrical Equipment and Machines: Finite Element Analysis,Professional Elective - IV,2026-27,6,45,0,30,15,3,70,30,50,50,200
+noc26-ee200,Electronic Modules for Industrial Applications using Op-Amps,Professional Elective - II (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
+noc26-ge98,Renewable Energy Sources: Fundamentals and Technologies,Professional Elective - I (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
+noc26-mm56,Fundamentals of Electronic Device Fabrication,Multidisciplinary Open Professional Electives Courses - II (MOOC),July 2026,5,2,0,0,NA,2,100,0,0,0,100
+noc26-cs185,Software Conceptual Design,Multidisciplinary Open Professional Electives Courses - III (MOOC),July 2026,6,2,0,0,NA,2,100,0,0,0,100
+noc26-ee106,Advanced Linear Continuous Control Systems: Applications with MATLAB Programming and Simulink,Professional Elective - III (MOOC),July 2026,6,3,0,0,NA,3,100,0,0,0,100
+noc26-ge105,Artificial Intelligence in Industrial and Management Engineering,Professional Elective - IV (MOOC),July 2026,6,3,0,0,NA,3,100,0,0,0,100
+noc26-ee107,Dc Microgrid and Control System,Professional Elective - V (MOOC),July 2026,7,3,0,0,NA,3,100,0,0,0,100
+noc26-ee108,Advance Power Electronics and Control,Professional Elective - VI (MOOC),July 2026,7,3,0,0,NA,3,100,0,0,0,100
+noc26-ma140,Linear Algebra for Machine Learning and Quantum Computing,Multidisciplinary Open Professional Electives Courses - IV (MOOC),July 2026,7,2,0,0,NA,2,100,0,0,0,100

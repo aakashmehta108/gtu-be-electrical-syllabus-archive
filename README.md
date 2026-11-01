@@ -16,10 +16,14 @@ Archived from the official portal (old26.gtu.ac.in/Syllabus/Syllabus.aspx) start
 - [Revision 2026-27 (RR-series codes)](schemes/scheme-2026-27.md): 31 subjects
 - [July 2026 MOOC electives](schemes/scheme-july-2026.md): 9 subjects
 
+## PDF backup
+
+Offline copies of the syllabus PDFs are kept in a Google Drive folder, organised by scheme: [GTU BE Electrical Syllabus PDFs](https://drive.google.com/drive/folders/1rxyo3XFhA3YALqj2Dqh-IKs-Bq3j8YGu). 256 of the 273 subjects have a PDF file on GTU's server. The other 17 (9 MOOC courses, 4 project subjects, and 4 Semester 6 subjects of the 2026-27 revision) have no PDF on the GTU server, so for those only the scheme data in this archive is preserved.
+
 ## Columns
 
 L = Lectures, T = Tutorial, P = Practical, PBL = Project Based Learning, E = External theory marks, M = Internal assessment, I = Internal viva/submission, V = External viva, Total = total marks. Values are exactly as shown on the GTU portal.
 
 ## Note
 
-Syllabus PDF links in the scheme pages point to GTU's official syllabus PDF for that subject code. A separate offline PDF backup is maintained by the archive owner.
+Syllabus PDF links in the scheme pages point to GTU's official syllabus PDF for that subject code; the PDF backup section above links to the offline copies.
